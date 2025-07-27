@@ -1,0 +1,12 @@
+# macOS system files
+.DS_Store
+
+# Logs
+*.log
+
+# Future: node or Python
+node_modules/
+__pycache__/
+
+# Editor-specific configs (optional)
+.vscode/
