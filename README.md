@@ -1,8 +1,4 @@
----
-album: PrePublic
----
-
-# Remem (README Revision Draft v0.9.2)
+# Remem (README v1.0)
 
 **Remem** is a structured reflection practice built on conversation.
 It helps you think more clearly, build knowledge more deliberately, and retain insights over time.
