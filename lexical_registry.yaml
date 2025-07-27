@@ -1,0 +1,90 @@
+# lexical_registry.yaml
+# Public-facing lexicon for Remem v1
+# Defines key terms used in README and foundational documents
+
+lexicon:
+  remem:
+    term: remem
+    definition: A structured reflection practice built on conversation that supports human–AI co-formation.
+    notes: Not an app or product — a reflexive cognitive environment co-developed through dialogue.
+
+  invocation:
+    term: invocation
+    definition: A deliberate phrase that signals intent and initiates a Remem session.
+    examples:
+      - "Remem, I’d like to reflect on something."
+      - "Remem, help me understand what I’m feeling."
+    notes: Sets tone and guides the system’s initial stance.
+
+  mode:
+    term: mode
+    definition: A configured cognitive stance that shapes system behaviour during a session.
+    values:
+      - reflection
+      - review
+      - research
+      - operation
+      - explore
+    notes: Modes scaffold the interaction to match your cognitive needs and emotional tone.
+
+  co-participant:
+    term: co-participant
+    definition: The human role in Remem — not a passive user, but an active collaborator in meaning-making.
+    notes: Reinforces relational, non-instrumental design.
+
+  clarity_loop:
+    term: clarity_loop
+    definition: The recurring cycle of dialogue, reflection, capture, and growth within Remem.
+    stages:
+      - Set your stance
+      - Find clarity
+      - Capture and tag insights
+      - Reflect beyond the session
+      - Adapt and evolve
+    notes: Each loop deepens understanding and builds continuity of thought.
+
+  reflexive_practice:
+    term: reflexive_practice
+    definition: A design ethic in which the system evolves in response to the user’s evolving understanding.
+    notes: More than adaptability — this is co-formation in action.
+
+  structured_memory:
+    term: structured_memory
+    definition: The tagged archive of prior sessions, invocations, and insights.
+    notes: Enables review, reflection, and continuity of thought.
+
+  cognitive_infrastructure:
+    term: cognitive_infrastructure
+    definition: The underlying scaffolding of thought that supports deeper reflection and co-development over time.
+    notes: Emerges through language, patterns, and ongoing interaction.
+
+  continuity_of_thought:
+    term: continuity_of_thought
+    definition: The ability to sustain and develop ideas across time and context, even beyond sessions.
+    notes: A core capability Remem enables by design.
+
+  stance:
+    term: stance
+    definition: A signal of how you're thinking or feeling — used to align the system's response.
+    values:
+      - reflection
+      - review
+      - research
+      - operation
+      - explore
+
+  voice_control:
+    term: voice_control
+    definition: User-directed tone, emotional register, or depth of interaction.
+    notes: Can be implied through language or explicitly invoked.
+
+  multi_format_reflection:
+    term: multi_format_reflection
+    definition: The ability to save, summarise, and convert sessions into other formats, including voice.
+    notes: Supports different modes of re-engagement.
+
+metadata:
+  version: 1.0.0
+  source: READMEv09.md
+  status: public-facing
+  updated: 2025-07-27
