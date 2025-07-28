@@ -1,9 +1,3 @@
----
-title: "Remem Structural Principles"
-album: "Remem"
-date: "2025-07-26"
----
-
 # Remem Structural Principles
 
 **Purpose:** This document articulates the structural design of Remem as a cognitive system, written for thoughtful collaborators, design peers, and reflective users who are familiar with the public README and conversation map. It retains conceptual depth while using clear language, offering a readable but rigorous guide to how Remem works beneath the surface.
