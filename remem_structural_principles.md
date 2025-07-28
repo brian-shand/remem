@@ -1,6 +1,6 @@
 ---
 title: "Remem Structural Principles"
-album: "PrePublic"
+album: "Remem"
 date: "2025-07-26"
 ---
 
